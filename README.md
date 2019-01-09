@@ -1,7 +1,3 @@
-# pytorch-beginner
-toy code for pytorch beginner
-
-
 <table>
    <tr>
       <td>Model</td>
@@ -78,9 +74,6 @@ toy code for pytorch beginner
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-   </tr>
-   <tr>
       <td></td>
    </tr>
 </table>
