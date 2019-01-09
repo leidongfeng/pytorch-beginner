@@ -1,5 +1,8 @@
 <table>
    <tr>
+      <td>                                                              表一</td>
+   </tr>
+   <tr>
       <td>Model</td>
       <td>Multi_BLEU</td>
       <td>BLEU_1</td>
@@ -70,8 +73,6 @@
       <td></td>
    </tr>
    <tr>
-      <td>表一</td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
